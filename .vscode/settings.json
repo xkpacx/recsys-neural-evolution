@@ -1,0 +1,9 @@
+{
+  "python.defaultInterpreterPath": ".venv/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "python.analysis.extraPaths": ["./"],
+  "jupyter.kernelPickerType": "OnlyIfThereAreNoKernels",
+  "jupyter.jupyterServerType": "local",
+  "jupyter.notebookFileRoot": "${workspaceFolder}"
+}
